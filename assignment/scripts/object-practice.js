@@ -57,3 +57,8 @@ console.log(me.shoeCount);
   - Cool huh? It works, even though it wasn't there before
   - Console.log your object
 */
+me.favoriteColor = 'Aqua';
+// will log Aqua
+console.log(me.favoriteColor);
+// favoriteColor shows up within list of objects
+console.log(me);
